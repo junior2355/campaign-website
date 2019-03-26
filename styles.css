@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Courgette', cursive;
+}
+
+ html{
+     text-align: center; 
+}
+img{
+    width:250px;
+}
+button{
+    width:200px;
+    color:red;
+    height:30px;
+    font-size: 25px;
+    background-color:blue; 
+}
+h1{
+    font-size: 20px;
+    color: firebrick;
+
+}
+
